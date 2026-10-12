@@ -1,4 +1,4 @@
-package com.example.tenantmanagementsystem // Match your exact package name
+package com.example.tenantmanagementsystem
 
 import android.content.Intent
 import android.net.Uri
